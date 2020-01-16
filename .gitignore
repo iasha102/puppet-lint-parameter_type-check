@@ -1,0 +1,6 @@
+/.bundle/
+/vendor/gems/
+/Gemfile.lock
+/.devcontainer
+/.vscode
+/coverage
